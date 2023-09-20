@@ -14,7 +14,7 @@ if (user1 < 18) {
   alert("Yaşınız 18-dən kiçikdir");
 }
 
-// 3) 1 ədəd Class və Obyekt(ad,soyad,password propertiləri və fullname metodu olacaq) hazırlanır.Sonra elə bir metod yazılmalıdır ki həmin metodu çağırdıqda Obyektin daxilindən fullname dəyərini götürüb bütün hərflərini böyük formada HTML'a yazdırsın.
+// // 3) 1 ədəd Class və Obyekt(ad,soyad,password propertiləri və fullname metodu olacaq) hazırlanır.Sonra elə bir metod yazılmalıdır ki həmin metodu çağırdıqda Obyektin daxilindən fullname dəyərini götürüb bütün hərflərini böyük formada HTML'a yazdırsın.
 
 class Person {
   constructor(firstName, lastName, password) {
